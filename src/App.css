@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.images {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  width: 40%;
+}
+
+.dropzone {
+  border: 2px dashed #aaa;
+  padding: 20px;
+  width: 40%;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+}
